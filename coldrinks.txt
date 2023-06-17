@@ -1,0 +1,4 @@
+Pepsi(PKR 50)
+String(PKR 60)
+7up(PKR 60)
+miranda(PKR 50)
